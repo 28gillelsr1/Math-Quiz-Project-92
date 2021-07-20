@@ -1,0 +1,28 @@
+body{
+    background:url("https://i.ytimg.com/vi/Kp2bYWRQylk/maxresdefault.jpg")
+    
+}
+#player1_name, #player2_name, span {
+    color:white;
+    margin: 10px;
+ display:inline-block;
+ font-size: 20px;
+}
+h4{
+    color:gold;
+}
+#player_question, #player_answer{
+    color:chartreuse;
+}
+h2{
+    font-size:50px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
